@@ -1,11 +1,11 @@
 # sunset-iterm2
 
 <p align="center">
-  <img src="./res/sunset.jpg" width="400px" />
+  <img src="https://github.com/pablopunk/art/raw/master/sunset/sunset.jpg" width="400" />
 </p>
 
 <p align="center">
-  <img src="./res/screenshot.png" />
+  <img src="https://github.com/pablopunk/art/raw/master/sunset/iterm-screenshot.png" />
 </p>
 
 ## Related
